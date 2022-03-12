@@ -8,4 +8,7 @@ package com.atguigu.crowd.test;
 public class NewTest {
 
 
+    public void test(){
+        System.out.println("true = ");
+    }
 }
